@@ -30,7 +30,7 @@ Al realizar estos pasos el proyecto deberia de inicializarse.
 
 ### DOCUMENTACIÓN CON SWAGGER
 
-Link : http://localhost:3000/api-docs/
+Link : http://localhost:8000/api-docs/
 
 ![This is a alt text.](https://i.imgur.com/wcvVM78.png "imagen 1")
 
